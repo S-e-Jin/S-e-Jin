@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=100&text=SeJin&fontAlign=80&color=random&fontColor=ffffff);
+![header](https://capsule-render.vercel.app/api?type=rect&height=100&text=SeJin&fontAlign=80&color=random&fontColor=ffffff)
 <div>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" />       
   <strong>Skills</strong>
